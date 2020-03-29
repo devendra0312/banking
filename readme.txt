@@ -1,2 +1,2 @@
 this is first line
-adde side bar
+added footer
